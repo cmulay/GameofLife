@@ -9,9 +9,5 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 References: 
 <br/>
 1. Watch: [Inventing Game of Life \(John Conway\)](https://www.youtube.com/watch?app=desktop&v=R9Plq-D1gEk) by Numberphile
-<br/>
-
 2. Watch: [Does John Conway hate his Game of Life?](https://www.youtube.com/watch?v=E8kUJL04ELA) by Numberphile
-<br/>
-
 3. Rules, Origin, Patterns, etc:  [here](https://en.m.wikipedia.org/wiki/Conway%27s_Game_of_Life).
