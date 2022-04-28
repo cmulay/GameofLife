@@ -1,10 +1,10 @@
-# GameofLife
-Implementation of [Conway's](https://en.m.wikipedia.org/wiki/John_Horton_Conway) Game of Life in JavaScript using Canvas.
+# GameofLife-2
+Implementation of Conway's Game of Life in React.
 
-### Abstract:
+Abstract:
+
 The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
-<br>
- It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is Turing complete and can simulate a universal constructor or any other Turing machine. 
+It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is Turing complete and can simulate a universal constructor or any other Turing machine.
 
 References: 
 <br/>
